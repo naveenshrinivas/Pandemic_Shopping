@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657042024201",
+    "firebase_url": "https://pandemic-shopping-default-rtdb.firebaseio.com",
+    "project_id": "pandemic-shopping",
+    "storage_bucket": "pandemic-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657042024201:android:74b6919a69fb2ceec2d5d8",
+        "android_client_info": {
+          "package_name": "com.example.pandemicshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657042024201-du648sdsorn8ghg9v9rve02k7ms70mem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pandemicshopping",
+            "certificate_hash": "13ca60f432cb3102c166194713d5883010011386"
+          }
+        },
+        {
+          "client_id": "657042024201-7mb79q2n59qh2r39jj6uj31ei8da4089.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-AyPXU3iS5Fa4HwpST5-ml6axWrYrks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657042024201-7mb79q2n59qh2r39jj6uj31ei8da4089.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
